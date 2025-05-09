@@ -1,4 +1,3 @@
-
 # POLÍTICA DE PRIVACIDAD DE APOAPSIS SpA
 
 ## Glosario de Términos
@@ -40,10 +39,15 @@ Recopilamos datos personales cuando son necesarios para prestar nuestros servici
 ### 1. Datos comunes para todos nuestros servicios:
 
 1.1. Información de identificación personal: nombre, RUT/RUN, dirección física, correo electrónico, número de teléfono 
+
 1.2. Información de facturación y/o datos bancarios 
+
 1.3. Historial de pagos y facturación 
+
 1.4. Direcciones IP asignadas o utilizadas por el cliente 
+
 1.5. Comunicaciones mantenidas con nuestro servicio de atención al cliente 
+
 1.6. Información sobre incidencias técnicas y reportes de problemas
 
 ### 2. Datos específicos según tipo de servicio:
@@ -51,19 +55,25 @@ Recopilamos datos personales cuando son necesarios para prestar nuestros servici
 #### 2.1. Para servicios de internet y telecomunicaciones:
 
 2.1.1. Dirección de instalación del servicio
+
 2.1.2. Registros de conexión y tráfico de red
+
 2.1.3. Datos de consumo y uso de servicios
 
 #### 2.2. Para servicios de datacenter:
 
 2.2.1. Datos de autenticación para acceso a plataformas
+
 2.2.2. Registros de acceso físico a instalaciones
+
 2.2.3. Datos de configuración e identificación de servidores y servicios contratados
+
 2.2.4. Métricas de uso de recursos (almacenamiento, procesamiento, ancho de banda)
 
 #### 2.3. Para servicios de asesoría y software empresarial:
 
 2.3.1 Datos sobre infraestructura tecnológica del cliente
+
 2.3.2 Necesidades específicas de servicios y requerimientos técnicos
 
 Mantenemos registros detallados de uso, acceso y otros datos necesarios para cumplir con las normas regulatorias de telecomunicaciones y responder adecuadamente a requerimientos judiciales o de autoridades competentes en el marco de investigaciones relacionadas con cibercrimen y otras materias legales.
@@ -77,29 +87,41 @@ Utilizamos sus datos personales para:
 ### 1. Gestión de servicios contratados:
 
 1.1. Provisión y administración de los servicios de telecomunicaciones y datacenter 
+
 1.2. Instalación, mantenimiento y soporte técnico 
+
 1.3. Facturación y gestión de pagos 
+
 1.4. Atención al cliente y resolución de incidencias
 
 ### 2. Seguridad y protección:
 
 2.1. Monitoreo y gestión de tráfico de red 
+
 2.2. Detección y prevención de actividades fraudulentas 
+
 2.3. Protección contra ataques informáticos 
+
 2.4. Prevención del uso indebido de nuestros servicios
 
 ### 3. Mejora continua:
 
 3.1. Análisis estadísticos con datos anonimizados 
+
 3.2. Estudio de tendencias de uso 
+
 3.3. Desarrollo de nuevas soluciones y servicios 
+
 3.4. Optimización de la calidad de servicio
 
 ### 4. Cumplimiento normativo:
 
 4.1. Emisión de facturas y documentos tributarios 
-4.2. Respuesta a requerimientos de autoridades competentes 
+
+4.2. Respuesta a requerimientos de autoridades competentes
+
 4.3. Conservación de registros legalmente exigidos 
+
 4.4. Cumplimiento de obligaciones regulatorias del sector telecomunicaciones
 
 ## Base Legal para el Tratamiento
@@ -179,20 +201,31 @@ En caso de una brecha de seguridad que afecte datos personales, Apoapsis SpA se 
    - Realizaremos una evaluación posterior para identificar mejoras en nuestros sistemas de seguridad.
 
 5. **Determinación del momento de "confirmación razonable":**
+   
    **5.1.** Se considera que Apoapsis SpA tiene "confirmación razonable" de una brecha de seguridad cuando el equipo técnico responsable ha verificado los siguientes elementos:
+   
      5.1.1. Existe evidencia técnica de un acceso no autorizado, exfiltración, alteración o pérdida de datos
+   
      5.1.2. Se ha identificado preliminarmente el tipo de datos potencialmente afectados
+   
      5.1.3. Se ha realizado una primera evaluación para determinar si los datos comprometidos incluyen datos personales
    
    **5.2.** El momento exacto de la "confirmación razonable" quedará documentado formalmente mediante un registro interno que incluirá:
+   
      5.2.1. Fecha y hora exacta de la confirmación
+   
      5.2.2. Breve descripción de las evidencias que llevaron a confirmar el incidente
+   
      5.2.3. Identificación del responsable técnico que declara la confirmación
+   
      5.2.4. Firma digital o física del responsable de seguridad o su delegado
 
    **5.3.** No se considerará como momento de "confirmación razonable":
+   
      5.3.1. La detección inicial de actividades sospechosas que requieren investigación
+   
      5.3.2. Alertas automáticas de sistemas de monitoreo que no han sido verificadas
+   
      5.3.3. Informes de terceros que no han sido corroborados internamente
 
    **5.4.** En caso de incidentes complejos o de gran escala, se podrá establecer diferentes momentos de "confirmación razonable" para distintos conjuntos de datos o sistemas afectados, documentando cada uno separadamente.
@@ -273,7 +306,7 @@ Para ejercer estos derechos, puede contactarnos a través de [contacto@apoapsis.
 
 Podemos actualizar esta Política de Privacidad periódicamente para reflejar cambios en nuestras prácticas de tratamiento de datos o por modificaciones legislativas. Le notificaremos cualquier cambio material publicando la nueva versión en nuestro sitio web y, cuando sea apropiado, le informaremos por correo electrónico.
 
-Le recomendamos revisar esta política regularmente para estar informado sobre cómo protegemos su información. Puede consultar el historial completo de cambios de esta política en nuestro repositorio público: https://github.com/apoapsiscl/documentos-legales/politica-privacidad.md
+Le recomendamos revisar esta política regularmente para estar informado sobre cómo protegemos su información. Puede consultar el historial completo de cambios de esta política en nuestro repositorio público: https://github.com/apoapsiscl/documentos-legales
 
 ## Contacto
 
