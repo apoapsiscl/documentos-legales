@@ -306,7 +306,7 @@ Para ejercer estos derechos, puede contactarnos a través de [contacto@apoapsis.
 
 Podemos actualizar esta Política de Privacidad periódicamente para reflejar cambios en nuestras prácticas de tratamiento de datos o por modificaciones legislativas. Le notificaremos cualquier cambio material publicando la nueva versión en nuestro sitio web y, cuando sea apropiado, le informaremos por correo electrónico.
 
-Le recomendamos revisar esta política regularmente para estar informado sobre cómo protegemos su información. Puede consultar el historial completo de cambios de esta política en nuestro repositorio público: https://github.com/apoapsiscl/documentos-legales
+Le recomendamos revisar esta política regularmente para estar informado sobre cómo protegemos su información. Puede consultar el historial completo de cambios de esta política en nuestro repositorio público: [https://github.com/apoapsiscl/documentos-legales](https://github.com/apoapsiscl/documentos-legales)
 
 ## Contacto
 
